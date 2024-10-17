@@ -1,0 +1,270 @@
+.info-link a{
+    padding: 3px 27px;
+    font-size: 13px;
+    background: #2271b1;
+    border:1px solid #2271b1;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    display: inline-block;
+    line-height: 2.15384615;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.info-link {
+    display: inline;
+    margin: 0px 50px 0px 0px;
+}
+
+.notice-content {
+    padding: 0px 10px 20px 15px;
+}
+.welcome a{
+    font-size: 21px;
+    padding: 8px 17px 38px;
+}
+.notice p.dismiss-link {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    margin: 0;
+    padding: 0;
+}
+.notice {
+    position: relative;
+}
+.site-edit{
+    margin-left: 15px !important;
+}
+
+.notice-content h2{
+    margin: 1.5em 0;
+}
+
+.appearance_page_grocery-shopping-store-theme .wrap,
+.appearance_page_grocery-shopping-store-theme .grocery-shopping-store-panel {
+    font-size: 16px;
+}
+
+.das-wrap {
+    margin: 20px 15px;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgba(183, 192, 206, 0.7);
+    -webkit-box-shadow: 0 0 10px 0 rgba(183, 192, 206, 0.7);
+    -moz-box-shadow: 0 0 10px 0 rgba(183, 192, 206, 0.7);
+    -ms-box-shadow: 0 0 10px 0 rgba(183, 192, 206, 0.7);
+    border-radius: 20px;
+}
+
+.das-wrap-inner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+
+.das-wrap .das-col-7 {
+    width: 70%;
+    padding: 30px;
+}
+
+.das-wrap .das-col-3 {
+    width: 30%;
+    padding: 30px;
+    border-left: 1px solid #d9d9d9;
+}
+
+.grocery-shopping-store-panel {
+    padding: 20px 10px;
+}
+
+.grocery-shopping-store-panel.header {
+    text-align: center;
+    justify-content: center;
+    padding: 0px 10px 50px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d9d9d9;
+    border-radius: 12px;
+    border: 4px solid #FD406A;
+}
+
+.grocery-shopping-store-panel.header p {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grocery-shopping-store-panel:last-child {
+    border-bottom: 0;
+}
+
+.grocery-shopping-store-logo {
+    margin: 0;
+    display: inline-block;
+}
+
+.grocery-shopping-store-logo img {
+    max-width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.das-wrap P {
+    COLOR: #333;
+}
+
+.btn {
+    display: inline-block;
+    padding: .75rem 1.2rem;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    border: 2px solid;
+    transition: all 0.25s ease-in-out;
+}
+
+.btn::after {
+    content: '\276F';
+    font-size: 14px;
+    font-weight: 700;
+    padding-left: 10px;
+    transition: all 0.35s ease-in-out;
+}
+
+.btn:hover::after {
+    padding-left: 15px;
+}
+
+.btn-primary {
+    background: linear-gradient(to top right, #FF0C86 0%, #FF7454 100%);
+    color: #fff;
+    border-color: transparent;
+}
+
+.btn-secondary {
+    background: #fff;
+    color: #FD406A;
+    border-color: #FD406A;
+}
+
+.btn-primary:focus,
+.btn-primary:hover {
+    background: #92899b;
+    color: #fff;
+}
+
+.btn-success {
+    background: linear-gradient(to top right, #FF0C86 0%, #FF7454 100%);
+    color: #fff;
+    font-size: 16px;
+    padding: 1.2rem 1.4rem;
+}
+
+.btn-secondary:focus,
+.btn-secondary:hover {
+    background: #92899b;
+    color: #fff;
+    border-color: #92899b;
+}
+
+.btn-success:focus,
+.btn-success:hover, a.btn.btn-primary.demo:hover {
+    background: #92899b;
+    color: #fff;
+}
+
+.theme-title {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.grocery-shopping-store-logo h2 {
+    font-size: 30px;
+    color: #333;
+    margin: 0.8em 0;
+}
+
+.theme-title h3 {
+    color: #333;
+    font-size: 0.9em;
+    margin: 0.2em 0 1.2em;
+    line-height: 1.2;
+    position: relative;
+}
+
+.upgrade-div strong{
+    font-size: 18px;
+    color: #333;
+}
+.upgrade-div ul li {
+    font-size: 14px;
+}
+
+.grocery-shopping-store-panel p {
+    font-size: 18px;
+    margin-bottom: 2.5rem;
+    width: 75%;
+}
+
+.grocery-shopping-store-panel span {
+    display: flex;
+    font-size: 12px;
+    margin-bottom: 2.5rem;
+    max-width: 70%;
+    align-items: flex-end;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.das-col-3 .grocery-shopping-store-panel {
+    border-bottom: none;
+}
+
+.grocery-shopping-store-panel li {
+    padding-bottom: 15px;
+}
+
+.upgrade-div {
+    border: 1px solid #d9d9d9;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 0 20px;
+    border: 4px solid #FD406A;
+}
+
+.upgrade-div .btn-success {
+    padding: 15px 50px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.upgrade-div li {
+    position: relative;
+    padding-left: 15px;
+    color: #333;
+}
+
+.upgrade-div li:before {
+    content: '\2714';
+    left: 0;
+    position: absolute;
+
+}
+
+.grocery-shopping-store-panel-content.pro-doc {
+    margin-top: 24px;
+}
+
+@media screen and (max-width: 768px) {
+    .das-wrap-inner {
+        flex-wrap: wrap;
+    }
+
+    .das-wrap .das-col-7,
+    .das-wrap .das-col-3 {
+        width: 100%;
+    }
+}

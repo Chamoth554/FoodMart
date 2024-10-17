@@ -1,0 +1,34 @@
+/* ---------Customizer--------- */
+.control-section-continental-restaurant h3.accordion-section-title {
+  font-size: 15px !important;
+  color: #fff !important;
+  background: #9F2C75 !important;
+  padding: 12px 10px;
+}
+a.button.button-secondary.alignright {
+  color: #000;
+  box-shadow: none;
+  font-weight: bold;
+  padding: 0px 10px;
+  background: #fff;
+  height: 30px;
+  font-size: 15px !important;
+  border-radius: 0;
+  border: none;
+  margin-top: -3px;
+}
+a.button.button-secondary.alignright:hover {
+  background: #000;
+  color: #fff;
+  border:none;
+}
+.customize-pane-parent .control-section .accordion-section-title:before {
+  font-family: dashicons;
+  content: "\f103";
+  font-size: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+#accordion-panel-nav_menus .accordion-section-title:before {
+  content: "\f333";
+}
